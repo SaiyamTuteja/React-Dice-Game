@@ -14,7 +14,7 @@ To get started with the Dice Game, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dice-game.git
+   git clone https://github.com/SaiyamTuteja/React-dice-game.git
    ```
 2. Navigate to the project directory:
    ```bash
